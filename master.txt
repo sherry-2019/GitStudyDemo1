@@ -1,2 +1,3 @@
 test branch -master
 branch play , add in master file from featureB
+stage play, commit without add from main
